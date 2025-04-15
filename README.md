@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/license/techoverloadyt/discord-quest-completer" alt="License">
   </a>
 </p>
-# Discord Quest Auto-Completer
+
 
 A powerful script to automatically complete Discord quests without actually having to play games or do activities well managed **quest auto completer**. Save time and earn rewards effortlessly!
 
@@ -42,7 +42,7 @@ A powerful script to automatically complete Discord quests without actually havi
 ## Usage
 
 1. After running the script, you'll see a floating **Hackcode.live** button in the top-left corner  
-2. Right-click the button to start completing all available quests  
+2. Right-click the button to start "_Completing all_" available quests  
 3. Or use the control panel in the top-right to manage quests  
 
 ## ❤️Show Love
