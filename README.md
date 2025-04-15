@@ -31,13 +31,16 @@ A powerful script to automatically complete Discord quests without actually havi
 
 ## Installation
 
-### Method 1: Browser Console (Quick)
+### Method : Discord COnsole (Quick)
 
-1. Open Discord in your browser (Chrome, Firefox, Edge, etc.)  
-2. Press F12 or right-click and select "Inspect" to open developer tools  
-3. Go to the "Console" tab  
-4. Paste the entire script contents from [quest-completer.js](quest-completer.js)  
-5. Press Enter to run the script  
+1. Open Discord. _(Must be app not work in MOBILE and any BROWSER)_
+2. Go to Quest Tab in Settings. 
+3. Goto "View Quest"
+4. Press <kbd>Control</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> to Open Inspect 
+5. Paste the entire script contents from [quest-completer.js](quest-completer.js)  
+6. Press Enter to run the script
+7. There Will Float a Popup " [Hackcode]Quest Completer " > Click on <kbd>Complete All</kbd>
+8. Start any Quest <kbd>Script</kbd> will Automatically Finsih all Quest😎  
 
 ## Usage
 
