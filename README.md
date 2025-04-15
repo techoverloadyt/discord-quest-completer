@@ -31,20 +31,15 @@ A powerful script to automatically complete Discord quests without actually havi
 4. Paste the entire script contents from [quest-completer.js](quest-completer.js)
 5. Press Enter to run the script
 
-### Method 2: Userscript (Recommended)
-
-1. Install a userscript manager extension:
-   - [Tampermonkey](https://www.tampermonkey.net/) (Chrome, Firefox, Edge, Opera)
-   - [Violentmonkey](https://violentmonkey.github.io/) (Firefox, Chrome)
-   - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) (Firefox)
-2. Click [here](#) to install the script (coming soon)
-3. The script will automatically run when you visit Discord
-
 ## Usage
 
 1. After running the script, you'll see a floating "Hackcode.live" button in the top-left corner
 2. Right-click the button to start completing all available quests
 3. Or use the control panel in the top-right to manage quests
+
+## Show Love
+
+Here is th my Offical webpage **hackcode.live** where you can get lot of Knowledge and Information related to tech and programming also **Paid Products in free** as a love
 
 ### Configuration
 
