@@ -31,7 +31,7 @@ A powerful script to automatically complete Discord quests without actually havi
 
 ## Installation
 
-### Method : Discord COnsole (Quick)
+### Method : Discord Console (Quick)
 
 1. Open Discord. _(Must be app not work in MOBILE and any BROWSER)_
 2. Go to Quest Tab in Settings. 
