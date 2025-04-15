@@ -2,9 +2,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/techoverloadyt/discord-quest-completer/main/banner.svg" alt="Discord Quest Auto Completer Banner">
 </p>
-
-# Discord Quest Auto-Completer
-
 <p align="center">
   <a href="https://github.com/techoverloadyt/discord-quest-completer/stargazers">
     <img src="https://img.shields.io/github/stars/techoverloadyt/discord-quest-completer" alt="Stars">
@@ -16,8 +13,9 @@
     <img src="https://img.shields.io/github/license/techoverloadyt/discord-quest-completer" alt="License">
   </a>
 </p>
+# Discord Quest Auto-Completer
 
-A powerful script to automatically complete Discord quests without actually having to play games or do activities. Save time and earn rewards effortlessly!
+A powerful script to automatically complete Discord quests without actually having to play games or do activities well managed **quest auto completer**. Save time and earn rewards effortlessly!
 
 ## Features
 
@@ -46,7 +44,7 @@ A powerful script to automatically complete Discord quests without actually havi
 2. Right-click the button to start completing all available quests  
 3. Or use the control panel in the top-right to manage quests  
 
-## Show Love
+## ❤️Show Love
 
 Here is my official website **[hackcode.live](https://hackcode.live)** where you can find tons of knowledge and tech/programming content — including **paid products for free** as a token of love ❤️
 
