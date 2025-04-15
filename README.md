@@ -51,23 +51,3 @@ A powerful script to automatically complete Discord quests without actually havi
 ## ❤️Show Love
 
 Here is my official website **[hackcode.live](https://hackcode.live)** where you can find tons of knowledge and tech/programming content — including **paid products for free** as a token of love ❤️
-
-## Configuration
-
-You can customize the script behavior by editing the `CONFIG` object:
-
-```javascript
-const CONFIG = {
-  QUEST_EXCLUSIONS: ["1248385850622869556"], // IDs to exclude
-  AUTO_COMPLETE_ALL: true,                   // Set to true to auto-complete all quests
-  COMPLETION_DELAY: 0.5,                     // Delay between progress updates (seconds)
-  ACCELERATION_FACTOR: 15,                   // Higher = faster completion
-  CONSOLE_LOGGING: true,                     // Enable console logs
-  GUI_LOGGING: true,                         // Enable on-screen notifications
-  INJECT_UI: true,                           // Enable custom UI controls
-  BRANDING: {
-    NAME: "Hackcode.live",                   // Branding name
-    COLOR: "#00AAFF",                        // Branding color
-    SHOW_FLOATING_LOGO: true                 // Show floating logo
-  }
-};
