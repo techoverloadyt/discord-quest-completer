@@ -1,8 +1,7 @@
 # Discord Quest Auto-Completer
 
 <p align="center">
-![Discord Quest Auto Completer](banner.svg)
-  <img href="https://github.com/techoverloadyt/discord-quest-completer/blob/main/banner.svg">
+![Discord Quest Auto Completer]([banner.svg](https://raw.githubusercontent.com/techoverloadyt/discord-quest-completer/5c0ad8d653db50adcaf70f18c9d20caa489a67ca/banner.svg?token=A53G6VGXPRKGPYTLA7P3EV3H7YQO2)
   <br>
   <a href="https://github.com/yourusername/discord-quest-auto-completer/stargazers"><img src="https://img.shields.io/github/stars/yourusername/discord-quest-auto-completer" alt="Stars"></a>
   <a href="https://github.com/yourusername/discord-quest-auto-completer/issues"><img src="https://img.shields.io/github/issues/yourusername/discord-quest-auto-completer" alt="Issues"></a>
