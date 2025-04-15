@@ -1,53 +1,7 @@
 # Discord Quest Auto-Completer
 
 <p align="center">
- <svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background with gradient -->
-  <defs>
-    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#5865F2;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#404EED;stop-opacity:1" />
-    </linearGradient>
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="5" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-  </defs>
-
-  <!-- Main background -->
-  <rect width="800" height="200" rx="10" fill="url(#bg-gradient)" />
-  
-  <!-- Decorative elements -->
-  <circle cx="650" cy="50" r="80" fill="#7289DA" opacity="0.2" />
-  <circle cx="100" cy="150" r="60" fill="#7289DA" opacity="0.2" />
-  
-  <!-- Discord logo stylized -->
-  <g transform="translate(60, 100) scale(0.9)" fill="#FFFFFF">
-    <path d="M40,12 C26.8,12 16,22.8 16,36 C16,49.2 26.8,60 40,60 C53.2,60 64,49.2 64,36 C64,22.8 53.2,12 40,12 Z M27.2,42 C24.4,42 22,39.2 22,36 C22,32.8 24.4,30 27.2,30 C30,30 32.4,32.8 32.4,36 C32.4,39.2 30,42 27.2,42 Z M52.8,42 C50,42 47.6,39.2 47.6,36 C47.6,32.8 50,30 52.8,30 C55.6,30 58,32.8 58,36 C58,39.2 55.6,42 52.8,42 Z" filter="url(#glow)" />
-  </g>
-  
-  <!-- Main title text with subtle shadow -->
-  <text x="400" y="85" font-family="Arial, sans-serif" font-weight="bold" font-size="38" text-anchor="middle" fill="#FFFFFF" filter="url(#glow)">DISCORD QUEST</text>
-  <text x="400" y="125" font-family="Arial, sans-serif" font-weight="bold" font-size="38" text-anchor="middle" fill="#FFFFFF" filter="url(#glow)">AUTO COMPLETER</text>
-  
-  <!-- Subtitle -->
-  <text x="400" y="160" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#FFFFFF">Automate your Discord quests with ease</text>
-  
-  <!-- Checkmark symbols to represent "completion" -->
-  <g transform="translate(560, 90) scale(0.8)" fill="#FFFFFF">
-    <circle cx="20" cy="20" r="18" fill="#43B581" />
-    <path d="M14,20 L18,24 L26,16" stroke="#FFFFFF" stroke-width="3" fill="none" />
-  </g>
-  
-  <g transform="translate(190, 90) scale(0.8)" fill="#FFFFFF">
-    <circle cx="20" cy="20" r="18" fill="#43B581" />
-    <path d="M14,20 L18,24 L26,16" stroke="#FFFFFF" stroke-width="3" fill="none" />
-  </g>
-  
-  <!-- Decorative lines -->
-  <line x1="150" y1="180" x2="650" y2="180" stroke="#FFFFFF" stroke-width="2" opacity="0.3" />
-  <line x1="180" y1="185" x2="620" y2="185" stroke="#FFFFFF" stroke-width="1" opacity="0.2" />
-</svg>
+![Discord Quest Auto Completer](banner.svg)
   <br>
   <a href="https://github.com/yourusername/discord-quest-auto-completer/stargazers"><img src="https://img.shields.io/github/stars/yourusername/discord-quest-auto-completer" alt="Stars"></a>
   <a href="https://github.com/yourusername/discord-quest-auto-completer/issues"><img src="https://img.shields.io/github/issues/yourusername/discord-quest-auto-completer" alt="Issues"></a>
