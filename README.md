@@ -1,3 +1,4 @@
+# Discord Quest Auto-Completer
 <!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/techoverloadyt/discord-quest-completer/main/banner.svg" alt="Discord Quest Auto Completer Banner">
