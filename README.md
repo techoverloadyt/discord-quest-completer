@@ -1,49 +1,58 @@
-# Discord Quest Auto-Completer
-<img href="https://raw.githubusercontent.com/techoverloadyt/discord-quest-completer/main/banner.svg" alt="Discord Quest Auto Completer" width="800">
+<!-- Banner -->
 <p align="center">
-<img href="https://raw.githubusercontent.com/techoverloadyt/discord-quest-completer/main/banner.svg" alt="Discord Quest Auto Completer" width="800">
-  <br>
-  <a href="https://github.com/yourusername/discord-quest-auto-completer/stargazers"><img src="https://img.shields.io/github/stars/yourusername/discord-quest-auto-completer" alt="Stars"></a>
-  <a href="https://github.com/yourusername/discord-quest-auto-completer/issues"><img src="https://img.shields.io/github/issues/yourusername/discord-quest-auto-completer" alt="Issues"></a>
-  <a href="https://github.com/yourusername/discord-quest-auto-completer/blob/main/LICENSE"><img src="https://img.shields.io/github/license/yourusername/discord-quest-auto-completer" alt="License"></a>
+  <img src="https://raw.githubusercontent.com/techoverloadyt/discord-quest-completer/main/banner.svg" alt="Discord Quest Auto Completer Banner">
+</p>
+
+# Discord Quest Auto-Completer
+
+<p align="center">
+  <a href="https://github.com/techoverloadyt/discord-quest-completer/stargazers">
+    <img src="https://img.shields.io/github/stars/techoverloadyt/discord-quest-completer" alt="Stars">
+  </a>
+  <a href="https://github.com/techoverloadyt/discord-quest-completer/issues">
+    <img src="https://img.shields.io/github/issues/techoverloadyt/discord-quest-completer" alt="Issues">
+  </a>
+  <a href="https://github.com/techoverloadyt/discord-quest-completer/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/techoverloadyt/discord-quest-completer" alt="License">
+  </a>
 </p>
 
 A powerful script to automatically complete Discord quests without actually having to play games or do activities. Save time and earn rewards effortlessly!
 
 ## Features
 
-- ✅ Auto-complete video watching quests
-- ✅ Auto-complete desktop app playing quests
-- ✅ Auto-complete streaming quests
-- ✅ Auto-complete activity quests
-- ✅ Customizable completion speed
-- ✅ Beautiful floating UI with branding
-- ✅ Visual notifications
-- ✅ Extremely lightweight and optimized
+- ✅ Auto-complete video watching quests  
+- ✅ Auto-complete desktop app playing quests  
+- ✅ Auto-complete streaming quests  
+- ✅ Auto-complete activity quests  
+- ✅ Customizable completion speed  
+- ✅ Beautiful floating UI with branding  
+- ✅ Visual notifications  
+- ✅ Extremely lightweight and optimized  
 
 ## Installation
 
 ### Method 1: Browser Console (Quick)
 
-1. Open Discord in your browser (Chrome, Firefox, Edge, etc.)
-2. Press F12 or right-click and select "Inspect" to open developer tools
-3. Go to the "Console" tab
-4. Paste the entire script contents from [quest-completer.js](quest-completer.js)
-5. Press Enter to run the script
+1. Open Discord in your browser (Chrome, Firefox, Edge, etc.)  
+2. Press F12 or right-click and select "Inspect" to open developer tools  
+3. Go to the "Console" tab  
+4. Paste the entire script contents from [quest-completer.js](quest-completer.js)  
+5. Press Enter to run the script  
 
 ## Usage
 
-1. After running the script, you'll see a floating "Hackcode.live" button in the top-left corner
-2. Right-click the button to start completing all available quests
-3. Or use the control panel in the top-right to manage quests
+1. After running the script, you'll see a floating **Hackcode.live** button in the top-left corner  
+2. Right-click the button to start completing all available quests  
+3. Or use the control panel in the top-right to manage quests  
 
 ## Show Love
 
-Here is th my Offical webpage **hackcode.live** where you can get lot of Knowledge and Information related to tech and programming also **Paid Products in free** as a love
+Here is my official website **[hackcode.live](https://hackcode.live)** where you can find tons of knowledge and tech/programming content — including **paid products for free** as a token of love ❤️
 
-### Configuration
+## Configuration
 
-You can customize the script behavior by editing the CONFIG object:
+You can customize the script behavior by editing the `CONFIG` object:
 
 ```javascript
 const CONFIG = {
