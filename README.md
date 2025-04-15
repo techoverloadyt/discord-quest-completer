@@ -1,5 +1,5 @@
 # Discord Quest Auto-Completer
-
+<img href="https://raw.githubusercontent.com/techoverloadyt/discord-quest-completer/main/banner.svg" alt="Discord Quest Auto Completer" width="800">
 <p align="center">
 <img href="https://raw.githubusercontent.com/techoverloadyt/discord-quest-completer/main/banner.svg" alt="Discord Quest Auto Completer" width="800">
   <br>
